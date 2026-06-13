@@ -1,0 +1,91 @@
+2026-06-01 run
+- Read personal-style-guide.md and used it as strict filter.
+- User feedback on first pass: recommendations felt flat and repetitive.
+- Hard excludes for next scans: no white pants, no sweaters/knitwear, no duplicate white linen button-downs, no heavy/hot-for-summer trousers, no loud items.
+- Approved newer brands to include: With Nothing Underneath, Asket, Officine Generale.
+- Explicit dislikes to exclude: TOAST, LEMAIRE, The Vivienne Files, Permanent Style.
+- Stronger summer direction: lighter but polished trousers in navy/charcoal/tobacco/stone; non-white shirting in pale blue, sand, tobacco, muted stripe; boxier woven summer tops instead of sweaters.
+- Writer/source direction: prioritize female fashion critics or analysts with Derek Guy-like rigor around quality, construction, price/value, and cultural criticism rather than generic styling blogs.
+- Runtime updated after user follow-up on 2026-06-01.
+- Andrea Cheong added as preferred analytical source. TikTok itself was inaccessible in this environment on 2026-06-01, so any Andrea-derived takeaways used in scans must be based on verifiable secondary coverage unless direct access is available.
+- Andrea themes to apply: inspect care labels, prefer natural fibers, evaluate seams/lining/buttons/finish, distrust premium marketing without construction evidence, and judge item-by-item rather than by brand halo.
+- Added approved brands on 2026-06-01: Leset, Marine Layer, Free People.
+- Exclude TOAST, LEMAIRE, The Vivienne Files, Permanent Style unless user reopens them.
+- Style guide updated on 2026-06-01 to include Andrea Cheong quality filter and summer-specific exclusions.
+- Resale platform expansion to use next scans: eBay for breadth/model-specific searches, Vestiaire Collective for European labels and FR sizing, The RealReal for authenticated higher-end pieces. Mercari only as a secondary supplement; Depop is lower priority for this brief.
+- Current Poshmark note: Asket and Officine Generale women inventory is thinner than Marine Layer / Free People; Marine Layer and Free People require aggressive filtering to avoid casual/boho drift.
+- Runtime: 2026-06-01 09:03:30 CDT plus later follow-up edits.
+- 2026-06-01 broader resale scan run across Poshmark, eBay, Vestiaire, and The RealReal.
+- Best current hit pool came from Officine Generale; With Nothing Underneath and Asket were comparatively thin in user-size/color targets.
+- Free People remains acceptable only for simple linen/cotton woven shirts and neutral trousers; exclude anything visibly boho, floral, tropical, sheer, or beach-coded.
+- Deliver listing recs as numbered items, not bullets, for easier user feedback.
+- User clarified exact fit target: M / US 8 in womenswear. Treat smaller sizes as off-brief unless measurements clearly support them.
+- User explicitly does not want black button-down shirts.
+- Search quality issue noted: stale resale indexing caused broken/sold links. Future recs should bias toward listings showing Buy Now/Add to Bag/updated recently and reject anything ambiguous.
+- 2026-06-02: user approved adding Banana Republic and Ralph Lauren to wardrobe searches.
+- Apply guardrails: prefer Banana Republic linen/cotton/tailored pieces; treat Banana Republic Factory cautiously. For Ralph Lauren, verify the exact line label and only keep pieces with strong fabric/construction.
+- 2026-06-02: explicitly block Banana Republic Factory from future wardrobe recommendations unless the user reopens it.
+- 2026-06-02 rerun after adding Banana Republic and Ralph Lauren. Best live-looking candidates skewed toward Banana Republic woven shirts and selective higher-line Ralph Lauren trousers/shirting.
+- Continue excluding white pants, black button-downs, sweaters, and Banana Republic Factory.
+- Live inventory across preferred newer brands remains thin; broadening to BR and RL improved results modestly.
+- 2026-06-02 user feedback on numbered shortlist:
+  - Yes: Banana Republic Everyday Linen Shirt in heathland brown (M), Banana Republic boxy tan cropped linen shirt (M), Polo Ralph Lauren blue Oxford shirt (M).
+  - No: Banana Republic mint green/blue linen button-down (M), Ralph Lauren Collection green straight-leg pants (US 8).
+- Positive direction: medium non-white woven shirts in tobacco/brown/tan/blue; crisp cotton or linen; simple, polished, not black, not white, not loud.
+- Negative direction: green tones that skew off, dressier trouser experiments from Ralph Lauren, and items that feel less immediately wearable.
+- 2026-06-06: user bought Lafayette 148 pants and Sezane linen trousers; both were good outcomes.
+- 2026-06-06: block additional cream/ivory/ecru/light neutral pants for now; this category is covered.
+- 2026-06-06 search rerun after cream-pants block. Strongest live-looking candidates: Banana Republic brown/tan linen or cotton shirts, Polo Ralph Lauren blue cotton oxford, selective Lafayette 148 navy/ink trousers. Many pants failed due cream/ecru, Factory, polyester, wrong size, or too green.
+- 2026-06-06: user made an offer on Banana Republic Everyday Linen Shirt in Heathland Brown, size M, Poshmark. Treat as pending; do not re-recommend unless offer falls through.
+- 2026-06-08 weekly scan:
+- Re-read personal-style-guide.md first and kept strict filters: no sweaters/knits for current purchase recs, no white or light-neutral pants, no black button-downs, no Banana Republic Factory, M / US 8 target, natural fibers only unless exceptional.
+- Cassandra / Next Level Wardrobe newer accessible posts still reinforce Laura's lane rather than changing it: `Business Casual vs Professional Attire for Women` (May 9, 2025) and `Power Casual for Women` (June 6, 2025) emphasize fit, fabric, finish, neutral core colors, tailored pants, and modern layers over trend chasing.
+- itsolgavi accessible Substack signals got stronger on transparency and quality:
+- `The €3000 Jacket, the €4 Paycheck` (Jul 17, 2025) pushes short supply chains, repairability, and skepticism toward luxury markup without ethics; highlighted brands included Artknit Studios, Santicler, and Johnstons of Elgin.
+- `Treasure Trove Tuesday: Cashmere Edition` (Aug 27, 2025) added practical quality tests: dense knit, longer fibers, bounce-back, low shedding, and secondhand as the value path. Also mentions she had just started a YouTube channel for long-form reviews.
+- Direct access to itsolgavi YouTube videos/transcripts remained limited in this environment on 2026-06-08. No reliable video-by-video metadata or captions were retrievable beyond the Substack mention that the channel had just launched by Aug 27, 2025.
+- ShopMy and LTK pages were not meaningfully accessible in this environment on 2026-06-08, so use them only as secondary signal unless product-level pages or mirrored references are accessible.
+- Best current Poshmark direction this run: pale blue / brown / tan woven shirts in linen or cotton, plus navy or brown tailored trousers in natural-fiber or wool-blend fabrics.
+- Good live-looking candidates this run came from WNU, Frank & Eileen, Polo Ralph Lauren, Banana Republic, Lafayette 148, and Theory.
+- Frequent failure reasons this run: sold listings, white/light-neutral pants, missing origin tags, synthetic-heavy trouser content, ruffle/fussy Officine Generale womens shirt, and unclear size conversions.
+- Runtime: 2026-06-08 09:04:50 CDT.
+- 2026-06-08 user feedback on shortlist:
+- Pass on additional solid-color button-downs for now, even when otherwise good.
+- Reject stale inventory more aggressively: one item unavailable, one sold, one broken link in the same batch. Future recs should be even stricter about live listing verification.
+- No more navy slacks at present; category is sufficiently covered.
+- Wool trousers are lower priority for current weather, especially when blended with meaningful polyester. Treat summer-season trouser recs as linen, cotton, or very light natural-fiber blends first.
+- Updated search bias after feedback: look for patterned or textured-but-still-polished woven tops, non-solid shirts, and warm-weather trousers in brown/charcoal/tobacco/stone that are not navy and not light neutral.
+- Runtime: 2026-06-08 19:16:17 CDT.
+- 2026-06-09 user asked to add Tinsley Crisp to personal-style-guide.md.
+- Added Tinsley Crisp / The Everygirl as an influence for attainable but aspirational styling, workwear refreshes, outfit formulas, accessories, and trend-aware sourcing through an NYC stylist lens.
+- Applied her as an expansion signal, not a quality override: small trend/color/accessory ideas are useful only when they stay polished, wearable, and compatible with the existing fabric/fussiness filters.
+- Runtime: 2026-06-09 21:05:24 CDT.
+- 2026-06-09 Tinsley-led search:
+- Read Tinsley Crisp authored Everygirl posts: `I’m Not Buying Any New Clothes for Summer—8 Pinterest Outfits I’m Copying Instead` (May 26, 2026), `You’re Not Sick of Your Work Wardrobe, You Just Need to Try These 5 Fresh Styling Formulas` (Apr 13, 2026), and `Heading on a Trip Soon? These 10 Pieces Deserve a Spot in Your Suitcase` (Mar 24, 2026).
+- Tinsley takeaways to keep: rework existing closet with accessories before buying basics; use scarf belts/neck scarves/bag scarves; relaxed trousers + tee/tank + light layer; slightly boxy/cropped shirt or vest + relaxed trousers; statement flats/shoes to make basics current; breathable pull-on pants in linen/cotton/gauze/silk blends.
+- Best Tinsley-inspired Poshmark categories: silk scarf, tailored vest/top, woven raffia bag, animal-print flat, lightweight gray/brown pull-on or pleated trousers, patterned non-solid shirt.
+- Strong live-looking candidates found: Burberry beige Nova check/polka dot silk scarf; Madewell 100% linen single-breasted vest top size 6; Madewell drapey cutaway vest size 8; Apiece Apart gray linen-cotton wide-leg pants size L with US8-ish measurements; J.Crew Collection leopard calf-hair flats size 8; J.Crew woven raffia handbag in dark walnut; Burberry Brit green/teal Nova check cotton shirt size L; Sezane cream/multicolor striped shirt size 40.
+- Rejects noted: Banana Republic blue striped Tencel/linen pull-on pants opened as Not for Sale; Burberry beige/gray silk scarf opened as sold; multiple Madewell linen vest size 8 hits were sold; some shoe hits were cheap synthetic/low-quality or wrong size.
+- Runtime: 2026-06-09 21:09:42 CDT.
+- 2026-06-09 user feedback on Tinsley-led search:
+- User liked the results and likes Tinsley as a source because she adds a touch of whimsy, but none of the current items were strong enough to buy immediately.
+- Preserve Tinsley as a styling/inspiration lens for light whimsy: scarf accents, restrained pattern, textured bags, statement flats, playful but polished color, and outfit-refreshing accessories.
+- Do not overcorrect into novelty, loud, boho, juvenile, or low-quality trend pieces. Whimsy should be small-dose and compatible with the existing quality/fabric filters.
+- Runtime: 2026-06-09 21:14:58 CDT.
+- 2026-06-09 user singled out Apiece Apart gray wide-leg linen-cotton pants, size L, $120, as the most intriguing result from the Tinsley search.
+- Treat this as a strong positive signal for relaxed-but-polished summer trousers with texture/pleats in gray, especially when measurements map to US8 even if label size is larger.
+- Listing details to remember: Apiece Apart wide-leg pants, gray, high-rise pleated linen/cotton, waist 28", hip 40", rise 12.5", inseam 28.5", leg opening 18.5", Buy Now visible, seller last active Jun 08, $120.
+- Before recommending similar pants, prioritize exact measurements and fabric/origin tag confirmation over label size alone.
+- Runtime: 2026-06-09 21:15:52 CDT.
+- 2026-06-10 user asked to search with COS, Madewell, Oak + Fort, and Mango.
+- Brand readout: COS and Madewell produced the strongest usable hits; Oak + Fort had one good gray trouser but seller activity was stale; Mango was weak overall and needs extra fabric/quality skepticism.
+- COS candidates found: black cotton-linen wide-leg trousers size M $75 NWT with active seller; beige/gray/black plaid shirt size 8 $40 with active seller; many other COS hits failed for white/light-neutral pants, wrong size, neon/loud color, sold/not for sale, wool, or insufficient fabric details.
+- Madewell candidates found: Linen Telegraph 3/4 sleeve top size M $22, 100% linen olive/cream stripe, fits more like large, active seller; blue/white checkered cotton button-down size M $59, active seller; many pants failed due wrong size, cream/light neutral, black/white, petite, or sold.
+- Oak + Fort candidate found: light gray pleated trousers size 8 $20, Buy Now visible, but seller last active Mar 30; ask if still available before considering.
+- Mango candidate found: green linen pants size 8 $63 NWT, active seller, no stretch, max waist 30"; proceed only if green tone works and seller confirms fabric/origin/real photos. Other Mango hits failed for sold, polyester, damaged seams, too small, cream/light neutral, bows/fussy details, sweater/knit, or too loud.
+- Runtime: 2026-06-10 05:03:07 CDT.
+- 2026-06-10 user feedback on COS/Madewell/Oak + Fort/Mango search:
+- User said it was a good search, not buying right now, but good selects and all links worked.
+- Preserve this search approach: tighter live-link verification, direct Poshmark listing pages, active seller checks, concise ranking, and cautious inclusion of adjacent mall/minimalist brands when fabric and silhouette pass.
+- Positive brand/search direction: COS, Madewell, Oak + Fort, and selective Mango can stay in future scans, with COS/Madewell strongest and Mango most quality-sensitive.
+- Runtime: 2026-06-10 05:33:40 CDT.

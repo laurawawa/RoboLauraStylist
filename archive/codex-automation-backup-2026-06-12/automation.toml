@@ -1,0 +1,13 @@
+version = 1
+id = "weekly-wardrobe-inspiration-scan"
+kind = "cron"
+name = "Weekly wardrobe inspiration scan"
+prompt = "Weekly wardrobe scan for Laura. Read /Users/laurastrauss/Documents/New project/personal-style-guide.md first and use it as the buying filter. Check Next Level Wardrobe/Cassandra Sethi blog for new or recently updated posts. Check itsolgavi's YouTube channel for new or recently updated videos; use title/description and any accessible transcript/captions when available, and if a transcript is not accessible, say so and base conclusions only on available metadata. Also check these itsolgavi reference sources for current recommendations and shopping signals: https://shopmy.us/shop/itsolgavi , https://www.shopltk.com/explore/itsolgavi?tab=products , and https://itsolgavi.substack.com/?r=45y8me&utm_campaign=pub-share-checklist . Extract current style or quality takeaways relevant to Laura's wardrobe. Then search Poshmark for direct listing links and suggest up to 10 pieces to consider purchasing. Apply the style guide strictly: under $300 unless exceptional, mostly shirts/pants/knits, size US 8/FR40/M, natural fibers, neutral or guide-approved colors/prints, no ruffles/fussy details, avoid sheer pants, verify USA/European origin when possible, and flag anything needing seller confirmation. Output concise recommendations with listing links, price, why it fits, and what to verify before offering."
+status = "ACTIVE"
+rrule = "FREQ=WEEKLY;BYDAY=MO;BYHOUR=9;BYMINUTE=0;BYSECOND=0"
+model = "gpt-5.4"
+reasoning_effort = "medium"
+execution_environment = "local"
+cwds = ["/Users/laurastrauss/Documents/New project"]
+created_at = 1779464629826
+updated_at = 1780010481667
