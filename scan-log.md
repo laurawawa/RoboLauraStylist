@@ -44,4 +44,23 @@ underpriced resale). Poshmark listings were reliably fetchable and individually
 verified live. Delivered 4 verified picks + rejects — see
 `reports/2026-06-13-scan.md`.
 
-Awaiting Laura's yes/no feedback on that shortlist.
+### Feedback (2026-06-13)
+Laura reviewed all 4. Curation was on-target but she bought nothing — none rose
+to must-have. Item-by-item:
+1. **Lafayette 148 espresso brown pinstripe linen trousers** — likes them, not
+   buying right now. → Keep brown/tobacco patterned linen trousers as a strong
+   direction; she's selective, so only surface trousers that are genuinely
+   compelling or gap-filling.
+2. **Madewell blue mixed-stripe linen shirt** — not a fan of the stripe design.
+   → Ease off busy/multi-stripe shirting; favor other patterns/textures
+   (small check, subtle weave, restrained print) over stripes for tops.
+3. **J.Crew leopard calf-hair flats** — loves the whimsy, but doesn't need more
+   shoes right now. → **Shoes category covered**; deprioritize statement
+   flats/shoes until she reopens it. Leopard/whimsy still a yes in principle.
+4. **Burberry nova-check silk scarf** — pretty, doesn't need a scarf right now.
+   → **Scarves/accessories not needed right now**; deprioritize until reopened.
+
+**Net direction for next run:** fewer, higher-conviction picks. Lead with
+trousers and non-stripe patterned/textured tops in her open lanes. Hold off on
+shoes and scarves/accessories. Whimsy stays welcome but applied to needed
+categories, not add-ons.
