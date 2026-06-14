@@ -19,6 +19,8 @@ and produces a weekly report.
 - `output-format.md` — the exact weekly report format.
 - `runner-prompt.md` — the master prompt the weekly run executes.
 - `scan-log.md` — run history + Laura's feedback (drives future runs).
+- `watchlist.md` — standing "in search of" items checked every run (e.g. Leset
+  Kyoto in her size) with target offer prices.
 - `reports/` — dated weekly reports (`YYYY-MM-DD-scan.md`).
 - `archive/` — backup of the original Codex automation (config + full memory).
 

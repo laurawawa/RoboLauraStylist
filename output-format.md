@@ -20,6 +20,10 @@ One line summarizing the active filters (size, fabrics, current category
 emphasis, exclusions) — pulled from personal-style-guide.md + recent scan-log.md
 feedback.
 
+## Watchlist check
+One line per active item in `watchlist.md`: matched (with verified link + offer
+number) or "no match this run." Put any match at the TOP of the shortlist.
+
 ## Shortlist (up to 10, all verified live this run)
 For each item:
 N. **Brand + item, size — $price** ([listing](full URL))

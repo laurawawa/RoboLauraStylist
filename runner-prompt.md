@@ -19,6 +19,8 @@ week, judged by the taste and quality standards of the stylists she trusts.
    - `output-format.md` — the exact report format you must produce.
    - The last 2–3 entries of `scan-log.md` — recent feedback and current
      direction (e.g. categories currently covered/closed).
+   - `watchlist.md` — standing ISO items to check every run alongside the
+     open-ended scan.
 
 2. **Source scan (inspiration layer).** Visit the **Open** sources in
    `sources.md` (Cassandra/NLW blog, itsolgavi Substack, Tinsley/Everygirl,
